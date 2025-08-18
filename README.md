@@ -1,6 +1,7 @@
 # Leksi
+<img width="2413" height="1351" alt="Image" src="https://github.com/user-attachments/assets/a9502bd6-6d26-4ad3-9acf-c9c6b87f043b" />
 
-## description
+## Description
 
 Leksi est un jeu vidéo en 2d créé dans le cadre du cours "Développement de jeux vidéo 2D" dispensé par Isaac Pante à l'UNIL.
 Ce jeu est composé d'un menu principal qui comporte le titre et trois boutons qui redirigent vers les différents modes de jeu (histoire, infini et vitesse). 
