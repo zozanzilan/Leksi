@@ -22,3 +22,5 @@ Certaines lignes de code sont issues de différents templates du programme [Kapl
 Deux polices d'écriture ont été utilisées pour ce jeu, [OpenDyslexic](https://www.dafont.com/fr/open-dyslexic.font) et [Montserrat](https://fontmeme.com/polices/police-montserrat/). 
 
 Les images et la partie visuelle du jeu en général ont été intégralement réalisées à la main par moi-même et la musique à été faite en étroite collaboration avec un ami qui souhaite rester anonyme. 
+
+Le jeu est disponible sur Itch.io [ici](https://pleu-luse.itch.io/leksi).
