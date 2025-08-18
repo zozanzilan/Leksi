@@ -22,48 +22,48 @@ loadMusic("boucle", "assets/boucle leksi.wav");
 loadMusic("intro", "assets/intro leksi.wav");
 
 //!sprite acceuil et choix difficulté :
-loadSprite("boutonvert", "/assets/boutonvert.png");
-loadSprite("boutonjaune", "/assets/boutonjaune.png");
-loadSprite("boutonbleu", "/assets/boutonbleucoupe.png");
-loadSprite("boutonrose", "/assets/boutonrose.png");
-loadSprite("boutonrose2", "/assets/boutonrose2.png");
-loadSprite("boutonorange", "/assets/boutonorange.png");
-loadSprite("boutonviolet", "/assets/boutonviolet.png");
-loadSprite("fondaccueil", "/assets/fondaccueil.png");
-loadSprite("titre", "/assets/titre.png");
+loadSprite("boutonvert", "assets/boutonvert.png");
+loadSprite("boutonjaune", "assets/boutonjaune.png");
+loadSprite("boutonbleu", "assets/boutonbleucoupe.png");
+loadSprite("boutonrose", "assets/boutonrose.png");
+loadSprite("boutonrose2", "assets/boutonrose2.png");
+loadSprite("boutonorange", "assets/boutonorange.png");
+loadSprite("boutonviolet", "assets/boutonviolet.png");
+loadSprite("fondaccueil", "assets/fondaccueil.png");
+loadSprite("titre", "assets/titre.png");
 
 //!sprite tuto
-loadSprite("tutobravo", "/assets/tutobravo.png");
-loadSprite("tutoclavier", "/assets/tutoclavier2.png");
-loadSprite("tutoflèche", "/assets/tutofleche.png");
-loadSprite("tutolunette", "/assets/tutolunette.png");
-loadSprite("tutomonstre", "/assets/tutomonstre.png");
-loadSprite("tutoperdu", "/assets/tutoperdu.png");
+loadSprite("tutobravo", "assets/tutobravo.png");
+loadSprite("tutoclavier", "assets/tutoclavier2.png");
+loadSprite("tutoflèche", "assets/tutofleche.png");
+loadSprite("tutolunette", "assets/tutolunette.png");
+loadSprite("tutomonstre", "assets/tutomonstre.png");
+loadSprite("tutoperdu", "assets/tutoperdu.png");
 
 //!sprite jeu
-loadSprite("heroine", "/assets/joueureusecoupe.png");
-loadSprite("heroinelunette", "/assets/heroinelunette.png");
-loadSprite("fondjeu", "/assets/fondbleu2.png");
-loadSprite("monstre", "/assets/monstrecoupe.png");
-loadSprite("barrerouge", "/assets/barrerougefondblanc.png");
-loadSprite("barrevert", "/assets/barrevertfondblanc.png");
-loadSprite("flèchebleu", "/assets/flechebleu.png");
-loadSprite("flècherouge", "/assets/flecherouge.png");
-loadSprite("flècheverte", "/assets/flecheverte.png");
-loadSprite("dessinpause", "/assets/pause.png");
-loadSprite("dessinAE", "/assets/dessin ae.png");
-loadSprite("dessinBD", "/assets/dessin bd.png");
-loadSprite("dessinQP", "/assets/dessin qp.png");
-loadSprite("dessinEsc", "/assets/dessin Esc.png");
-loadSprite("écritAE", "/assets/ecrit ae.png");
-loadSprite("écritDB", "/assets/ecrit db.png");
-loadSprite("écritQP", "/assets/ecrit qp.png");
-loadSprite("écritEsc", "/assets/ecrit Esc.png");
-loadSprite("titre2", "/assets/titre2.png");
+loadSprite("heroine", "assets/joueureusecoupe.png");
+loadSprite("heroinelunette", "assets/heroinelunette.png");
+loadSprite("fondjeu", "assets/fondbleu2.png");
+loadSprite("monstre", "assets/monstrecoupe.png");
+loadSprite("barrerouge", "assets/barrerougefondblanc.png");
+loadSprite("barrevert", "assets/barrevertfondblanc.png");
+loadSprite("flèchebleu", "assets/flechebleu.png");
+loadSprite("flècherouge", "assets/flecherouge.png");
+loadSprite("flècheverte", "assets/flecheverte.png");
+loadSprite("dessinpause", "assets/pause.png");
+loadSprite("dessinAE", "assets/dessin ae.png");
+loadSprite("dessinBD", "assets/dessin bd.png");
+loadSprite("dessinQP", "assets/dessin qp.png");
+loadSprite("dessinEsc", "assets/dessin Esc.png");
+loadSprite("écritAE", "assets/ecrit ae.png");
+loadSprite("écritDB", "assets/ecrit db.png");
+loadSprite("écritQP", "assets/ecrit qp.png");
+loadSprite("écritEsc", "assets/ecrit Esc.png");
+loadSprite("titre2", "assets/titre2.png");
 
 //!sprite fin
-loadSprite ("perdu", "/assets/perdu.png");
-loadSprite ("bravo", "/assets/bravo2.png");
+loadSprite ("perdu", "assets/perdu.png");
+loadSprite ("bravo", "assets/bravo2.png");
 
 setGravity(2400);
 
