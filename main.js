@@ -14,7 +14,6 @@ kaplay({
 setBackground(212, 110, 179);
 
 //!police
-loadFont("pixel dyslexic", "assets/dyslexic-pixelated.otf");
 loadFont("opendyslexic", "assets/OpenDyslexic-Regular.otf");
 loadFont("Montserrat", "assets/Montserrat-Medium.otf");
 
@@ -25,7 +24,7 @@ loadMusic("intro", "assets/intro leksi.wav");
 //!sprite acceuil et choix difficulté :
 loadSprite("boutonvert", "/assets/boutonvert.png");
 loadSprite("boutonjaune", "/assets/boutonjaune.png");
-loadSprite("boutonbleu", "/assets/boutonbleucoupé.png");
+loadSprite("boutonbleu", "/assets/boutonbleucoupe.png");
 loadSprite("boutonrose", "/assets/boutonrose.png");
 loadSprite("boutonrose2", "/assets/boutonrose2.png");
 loadSprite("boutonorange", "/assets/boutonorange.png");
@@ -36,30 +35,30 @@ loadSprite("titre", "/assets/titre.png");
 //!sprite tuto
 loadSprite("tutobravo", "/assets/tutobravo.png");
 loadSprite("tutoclavier", "/assets/tutoclavier2.png");
-loadSprite("tutoflèche", "/assets/tutoflèche.png");
+loadSprite("tutoflèche", "/assets/tutofleche.png");
 loadSprite("tutolunette", "/assets/tutolunette.png");
 loadSprite("tutomonstre", "/assets/tutomonstre.png");
 loadSprite("tutoperdu", "/assets/tutoperdu.png");
 
 //!sprite jeu
-loadSprite("heroine", "/assets/joueureusecoupé.png");
+loadSprite("heroine", "/assets/joueureusecoupe.png");
 loadSprite("heroinelunette", "/assets/heroinelunette.png");
 loadSprite("fondjeu", "/assets/fondbleu2.png");
-loadSprite("monstre", "/assets/monstrecoupé.png");
+loadSprite("monstre", "/assets/monstrecoupe.png");
 loadSprite("barrerouge", "/assets/barrerougefondblanc.png");
 loadSprite("barrevert", "/assets/barrevertfondblanc.png");
-loadSprite("flèchebleu", "/assets/flèchebleu.png");
-loadSprite("flècherouge", "/assets/flècherouge.png");
-loadSprite("flècheverte", "/assets/flècheverte.png");
+loadSprite("flèchebleu", "/assets/flechebleu.png");
+loadSprite("flècherouge", "/assets/flecherouge.png");
+loadSprite("flècheverte", "/assets/flecheverte.png");
 loadSprite("dessinpause", "/assets/pause.png");
 loadSprite("dessinAE", "/assets/dessin ae.png");
 loadSprite("dessinBD", "/assets/dessin bd.png");
 loadSprite("dessinQP", "/assets/dessin qp.png");
 loadSprite("dessinEsc", "/assets/dessin Esc.png");
-loadSprite("écritAE", "/assets/écrit ae.png");
-loadSprite("écritDB", "/assets/écrit db.png");
-loadSprite("écritQP", "/assets/écrit qp.png");
-loadSprite("écritEsc", "/assets/écrit Esc.png");
+loadSprite("écritAE", "/assets/ecrit ae.png");
+loadSprite("écritDB", "/assets/ecrit db.png");
+loadSprite("écritQP", "/assets/ecrit qp.png");
+loadSprite("écritEsc", "/assets/ecrit Esc.png");
 loadSprite("titre2", "/assets/titre2.png");
 
 //!sprite fin

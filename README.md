@@ -18,6 +18,6 @@ La partie jouable du jeu est dotée d'un menu pause qui fige l'action et donne a
 La librairie utilisé pour mon jeu est [Kaplay](https://kaplayjs.com/).
 Certaines lignes de code sont issues de différents templates du programme [Kaplay Playground](https://play.kaplayjs.com), et d'autres ont été corrigées ou générées par ChatGPT. 
 
-Deux polices d'écriturent ont été utilisées pour ce jeu, [OpenDyslexic](https://www.dafont.com/fr/open-dyslexic.font) et [Montserrat](https://fontmeme.com/polices/police-montserrat/). 
+Deux polices d'écriture ont été utilisées pour ce jeu, [OpenDyslexic](https://www.dafont.com/fr/open-dyslexic.font) et [Montserrat](https://fontmeme.com/polices/police-montserrat/). 
 
 Les images et la partie visuelle du jeu en général ont été intégralement réalisées à la main par moi-même et la musique à été faite en étroite collaboration avec un ami qui souhaite rester anonyme. 
